@@ -17,7 +17,7 @@ If you want make invisible objects visible, just enter class id preceeded by c (
 ## Change Background
 
 You can also leverage this script to change background. You can keep objects of interest in foreground.
-![demo](./assets/thumb.png)
+![demo](./assets/thumb.PNG)
 
 Below command shows how to run this.
 
