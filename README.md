@@ -14,4 +14,13 @@ If you want to make any objects invisible at a moment, enter the class id of tha
 
 If you want make invisible objects visible, just enter class id preceeded by c (i.e c15 for person).
 
-![Demo Video](https://youtu.be/uNySz9l5CI8)
+## Change Background
+
+You can also leverage this script to change background. You can keep objects of interest in foreground.
+![demo](./assets/thumb.png)
+
+Below command shows how to run this.
+
+```
+python background_change.py --video=./assets/bgdemo3.mp4 --out_video=sample.mp4 --show=True --bg=./assets/bg_beach.jpg --change_bg_dynamic=True
+```
